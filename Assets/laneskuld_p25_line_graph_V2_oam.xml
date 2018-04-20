@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" id="tag:adobe.com,2012-03:edge:oam:compid:EDGE-6614146" name="laneskuld_p25_line_graph_V2" version="1">
+
+  <description type="text/html"><![CDATA[Widget Exported from Adobe Edge (V1.DW.Edge)]]></description>
+  <category name="Adobe Edge Animation"/>
+
+  <remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+
+  <icon src="transparent.png" width="510" height="300" />
+
+  <require type="other" src="laneskuld_p25_line_graph_V2.html" />
+
+  <require type="javascript" src="laneskuld_p25_line_graph_V2_edge.js" />
+  <require type="javascript" src="edge_includes/edge.5.0.0.min.js" />
+
+  <require type="image" src="transparent.png" />
+
+  <require type="folder" src="edge_includes" />
+
+
+  <content><![CDATA[
+    <div class="EDGE-6614146"></div>
+  ]]></content>
+   
+  <properties name="Properties">
+    <property name="default-width" defaultValue="510" hidden="true"/>
+    <property name="default-height" defaultValue="300" hidden="true"/>
+    <property name="resizable" defaultValue="true" hidden="true"/>				
+		<property name="centering" defaultValue="horizontal" hidden="true"/>				
+		<property name="scaling" defaultValue="both" hidden="true"/>
+    <property name="html-page" defaultValue="laneskuld_p25_line_graph_V2.html" hidden="true"/>
+  </properties>
+
+</widget>
